@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mainstream Anime Emporium", "Mainstream Anime Emporium.csproj", "{293B1D3A-7227-4E67-984A-0F3544D574AA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MAE Setup", "MAE Setup\MAE Setup.vdproj", "{16C8A7C2-756D-4CF3-AFC5-F0E1E66B4F11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{293B1D3A-7227-4E67-984A-0F3544D574AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{293B1D3A-7227-4E67-984A-0F3544D574AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{293B1D3A-7227-4E67-984A-0F3544D574AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{293B1D3A-7227-4E67-984A-0F3544D574AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16C8A7C2-756D-4CF3-AFC5-F0E1E66B4F11}.Debug|Any CPU.ActiveCfg = Debug
+		{16C8A7C2-756D-4CF3-AFC5-F0E1E66B4F11}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {047FE4DA-BC5F-443E-B3EB-601398D4EAA6}
+	EndGlobalSection
+EndGlobal
