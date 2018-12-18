@@ -1,0 +1,54 @@
+C:\Users\chris\Desktop\Mainstream Anime Emporium\bin\Release\Mainstream Anime Emporium.exe.config
+C:\Users\chris\Desktop\Mainstream Anime Emporium\bin\Release\Mainstream Anime Emporium.exe.manifest
+C:\Users\chris\Desktop\Mainstream Anime Emporium\bin\Release\Mainstream Anime Emporium.application
+C:\Users\chris\Desktop\Mainstream Anime Emporium\bin\Release\Mainstream Anime Emporium.exe
+C:\Users\chris\Desktop\Mainstream Anime Emporium\bin\Release\Mainstream Anime Emporium.pdb
+C:\Users\chris\Desktop\Mainstream Anime Emporium\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\chris\Desktop\Mainstream Anime Emporium\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\chris\Desktop\Mainstream Anime Emporium\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\chris\Desktop\Mainstream Anime Emporium\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\chris\Desktop\Mainstream Anime Emporium\bin\Release\FlashControlV71.dll
+C:\Users\chris\Desktop\Mainstream Anime Emporium\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\chris\Desktop\Mainstream Anime Emporium\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\chris\Desktop\Mainstream Anime Emporium\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\chris\Desktop\Mainstream Anime Emporium\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\chris\Desktop\Mainstream Anime Emporium\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\chris\Desktop\Mainstream Anime Emporium\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\chris\Desktop\Mainstream Anime Emporium\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\chris\Desktop\Mainstream Anime Emporium\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\chris\Desktop\Mainstream Anime Emporium\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\chris\Desktop\Mainstream Anime Emporium\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\chris\Desktop\Mainstream Anime Emporium\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\chris\Desktop\Mainstream Anime Emporium\bin\Release\ShockwaveFlashObjects.dll
+C:\Users\chris\Desktop\Mainstream Anime Emporium\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\chris\Desktop\Mainstream Anime Emporium\bin\Release\stdole.dll
+C:\Users\chris\Desktop\Mainstream Anime Emporium\obj\Release\Mainstream_Anime_Emporium.frmAbout.resources
+C:\Users\chris\Desktop\Mainstream Anime Emporium\obj\Release\Mainstream_Anime_Emporium.frmAddToCart.resources
+C:\Users\chris\Desktop\Mainstream Anime Emporium\obj\Release\Mainstream_Anime_Emporium.frmCart.resources
+C:\Users\chris\Desktop\Mainstream Anime Emporium\obj\Release\Mainstream_Anime_Emporium.frmCheckout.resources
+C:\Users\chris\Desktop\Mainstream Anime Emporium\obj\Release\Mainstream_Anime_Emporium.frmEmpMain.resources
+C:\Users\chris\Desktop\Mainstream Anime Emporium\obj\Release\Mainstream_Anime_Emporium.frmLogin.resources
+C:\Users\chris\Desktop\Mainstream Anime Emporium\obj\Release\Mainstream_Anime_Emporium.frmMan_Main.resources
+C:\Users\chris\Desktop\Mainstream Anime Emporium\obj\Release\Mainstream_Anime_Emporium.frmReceipt.resources
+C:\Users\chris\Desktop\Mainstream Anime Emporium\obj\Release\Mainstream_Anime_Emporium.frmRequest.resources
+C:\Users\chris\Desktop\Mainstream Anime Emporium\obj\Release\Mainstream_Anime_Emporium.frmStore.resources
+C:\Users\chris\Desktop\Mainstream Anime Emporium\obj\Release\Mainstream_Anime_Emporium.ucAddProduct.resources
+C:\Users\chris\Desktop\Mainstream Anime Emporium\obj\Release\Mainstream_Anime_Emporium.ucEmpSchedule.resources
+C:\Users\chris\Desktop\Mainstream Anime Emporium\obj\Release\Mainstream_Anime_Emporium.ucInventory.resources
+C:\Users\chris\Desktop\Mainstream Anime Emporium\obj\Release\Mainstream_Anime_Emporium.ucInvoice.resources
+C:\Users\chris\Desktop\Mainstream Anime Emporium\obj\Release\Mainstream_Anime_Emporium.ucProduct.resources
+C:\Users\chris\Desktop\Mainstream Anime Emporium\obj\Release\Mainstream_Anime_Emporium.Properties.Resources.resources
+C:\Users\chris\Desktop\Mainstream Anime Emporium\obj\Release\Mainstream_Anime_Emporium.ucSales.resources
+C:\Users\chris\Desktop\Mainstream Anime Emporium\obj\Release\Mainstream_Anime_Emporium.ucUpPro.resources
+C:\Users\chris\Desktop\Mainstream Anime Emporium\obj\Release\Mainstream_Anime_Emporium.ucEmpList.resources
+C:\Users\chris\Desktop\Mainstream Anime Emporium\obj\Release\Mainstream Anime Emporium.csproj.GenerateResource.cache
+C:\Users\chris\Desktop\Mainstream Anime Emporium\obj\Release\Mainstream Anime Emporium.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Mainstream Anime Emporium\obj\Release\Mainstream Anime Emporium.exe.manifest
+C:\Users\chris\Desktop\Mainstream Anime Emporium\obj\Release\Mainstream Anime Emporium.application
+C:\Users\chris\Desktop\Mainstream Anime Emporium\obj\Release\Mainstream Anime Emporium.csproj.CopyComplete
+C:\Users\chris\Desktop\Mainstream Anime Emporium\obj\Release\Mainstream Anime Emporium.exe
+C:\Users\chris\Desktop\Mainstream Anime Emporium\obj\Release\Mainstream Anime Emporium.pdb
+C:\Users\chris\Desktop\Mainstream Anime Emporium\obj\Release\Mainstream_Anime_Emporium.frmRecovery.resources
+C:\Users\chris\Desktop\Mainstream Anime Emporium\obj\Release\Mainstream_Anime_Emporium.frmCHelp.resources
+C:\Users\chris\Desktop\Mainstream Anime Emporium\obj\Release\Mainstream_Anime_Emporium.frmEHelp.resources
+C:\Users\chris\Desktop\Mainstream Anime Emporium\obj\Release\Mainstream_Anime_Emporium.frmMHelp.resources
